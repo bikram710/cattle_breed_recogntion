@@ -1,0 +1,1 @@
+to run this project first you have to download these files in your pc or laptop then open in vs code run the predict.py script after that it will ask you the image of cow for recognition you should enter the exact loaction of the image file in jpg format from your pc  .
